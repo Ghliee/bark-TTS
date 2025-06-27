@@ -1,0 +1,15 @@
+torch
+torchaudio
+transformers
+tokenizers
+numpy
+requests
+soundfile
+scipy
+einops
+sentencepiece
+loguru
+accelerate
+ffmpeg-python
+fastapi
+uvicorn
